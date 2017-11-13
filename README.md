@@ -1,4 +1,2 @@
-# [Presentation: JavaScript Scoping](https://tvalletta.github.io/pres-js-scopes/)
+# [Presentation: Microservice Trade-offs](https://microservice-tradeoffs.now.sh)
 ### By Thomas A. Valletta
-
-https://tvalletta.github.io/pres-js-scopes/ 
